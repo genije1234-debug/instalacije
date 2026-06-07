@@ -1,7 +1,16 @@
 node_modules/
+
+# Browser profili (lokalni, prave se pri pokretanju)
 chrome-bwin-live/
+browser-profile/
+kasnjenje-ui/
+
+# Logovi
 *.log
 *-log.txt
 admiral-debug-log.txt
 bwin-odds-log.txt
 bwin-ws-out-log.txt
+
+# Runtime
+.pids.json
