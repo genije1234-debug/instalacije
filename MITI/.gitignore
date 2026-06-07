@@ -1,0 +1,17 @@
+node_modules/
+
+# Browser profili (lokalni, prave se pri pokretanju)
+miti-ui/
+esoccer-skupljac/profile/
+esoccer-skupljac/profile-cdp/
+
+# Podaci/kes koje servisi prave u toku rada
+esoccer-skupljac/debug/
+esoccer-skupljac/catalog-data/
+
+# Logovi
+*.log
+*-log.txt
+
+# Runtime
+.pids.json
